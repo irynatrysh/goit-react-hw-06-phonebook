@@ -97,6 +97,7 @@ export function ContactForm() {
               </ErrorText>
             )}
           </ErrorMessage>
+          <Button type="submit">Add contact</Button>
         </Container>
       )}
     </Formik>
